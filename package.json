@@ -1,0 +1,14 @@
+
+{
+  "name": "Houssem",
+  "description": "Houssem",
+  "version": "0.0.0",
+  "main": "Bot.js",
+  "scripts": {
+    "start": "node Bot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
